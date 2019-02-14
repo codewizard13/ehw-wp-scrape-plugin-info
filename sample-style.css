@@ -1,0 +1,22 @@
+<style>
+table, tbody, tr, td {
+    border: solid 1px red;
+    border-collapse: collapse;
+    text-align: top;
+}
+
+td {
+    padding: .2em .6em;
+}
+
+td:nth-of-type(1) {
+}
+td:nth-of-type(2) {
+    max-width: 300px;
+    font-weight: bold;
+}
+td:nth-of-type(3) {
+    max-width: 600px;
+}
+
+</style>
