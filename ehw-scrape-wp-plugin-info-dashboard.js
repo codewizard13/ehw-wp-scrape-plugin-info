@@ -192,7 +192,7 @@ outStr += "<table>";
 console.log('OUT STRING');
 console.log(outStr);
 
-outputViews.psv = outStr;
+outputViews.htm = outStr;
 console.log('outputViews');
 console.log(outputViews);
 
