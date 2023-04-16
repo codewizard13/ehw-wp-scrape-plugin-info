@@ -1,4 +1,3 @@
-<style>
 table, tbody, tr, td {
     border: solid 1px red;
     border-collapse: collapse;
@@ -18,5 +17,3 @@ td:nth-of-type(2) {
 td:nth-of-type(3) {
     max-width: 600px;
 }
-
-</style>
